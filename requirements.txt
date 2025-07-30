@@ -1,0 +1,5 @@
+Flask
+pygal
+requests
+pycountry
+gunicorn
