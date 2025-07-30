@@ -1,5 +1,6 @@
 Flask
 pygal
+pygal_maps_world
 requests
 pycountry
 gunicorn
