@@ -3,7 +3,8 @@ import json
 import time
 from collections import defaultdict
 from flask import Flask, request, Response
-import pygal.maps
+from pygal_maps_world.maps import World
+import pygal.style
 import requests
 import pycountry
 
